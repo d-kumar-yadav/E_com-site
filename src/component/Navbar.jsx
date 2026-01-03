@@ -20,16 +20,7 @@ function Navbar(){
 </NavLink>
 
 
-<div className="bg-white  p-2 border-2 border-amber-200 rounded-full w-[400px]">
 
-<input  className="w-full outline-none "
- type="text"
- name="search"
- placeholder="Search"
-></input>
-
-
-</div>
 
 
 <div className="flex space-x-6 ">
